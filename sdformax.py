@@ -1,4 +1,9 @@
-﻿from PySide2 import QtCore
+﻿# 本站青苓君许可声明
+# 
+# 版权所有 (c) 2023 本站青苓君
+# 
+
+from PySide2 import QtCore
 from PySide2 import QtGui
 from PySide2 import QtWidgets
 from PySide2.QtGui import QPalette
